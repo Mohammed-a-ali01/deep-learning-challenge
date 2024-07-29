@@ -1,5 +1,6 @@
 # deep-learning-challenge
 
+
 From Alphabet Soup’s business team, you have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as:
 
 EIN and NAME—Identification columns
@@ -74,3 +75,6 @@ Add more neurons to a hidden layer.
 Add more hidden layers.
 Use different activation functions for the hidden layers.
 Add or reduce the number of epochs to the training regimen.
+
+
+# LINK: https://colab.research.google.com/drive/1EYorQyB-_gMTQvEWPnj4NiCWk9LBek22?usp=sharing
